@@ -9,6 +9,8 @@ public class AppiumTest
 	public void Androidapp()
 	{
 		System.out.println("android");
+		
+		System.out.println("Windows");
 	}
 	@Test
 	public void IOSapp()
