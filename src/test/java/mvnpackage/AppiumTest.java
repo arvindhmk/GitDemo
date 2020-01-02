@@ -13,6 +13,7 @@ public class AppiumTest
 		System.out.println("Windows");
 		System.out.println("Nokia OS");
 		System.out.println("Symbian OS");
+		System.out.println("Magic OS");
 	}
 	@Test
 	public void IOSapp()
