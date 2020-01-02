@@ -19,5 +19,7 @@ public class RestApiTest
 	public void deleteTwitter()
 	{
 	System.out.println("Rest-deltwitter");
+	System.out.println("Rest-updatetwitter");
+	System.out.println("Rest-del2twitter");
 	}
 }
