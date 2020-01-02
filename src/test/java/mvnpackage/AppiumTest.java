@@ -14,6 +14,8 @@ public class AppiumTest
 		System.out.println("Nokia OS");
 		System.out.println("Symbian OS");
 		System.out.println("Magic OS");
+		System.out.println("color OS");
+ added color os by maven java
 	}
 	@Test
 	public void IOSapp()
