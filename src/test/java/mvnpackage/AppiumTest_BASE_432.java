@@ -1,7 +1,7 @@
 package mvnpackage;
 
 import org.testng.annotations.Test;
-
+import org.testng.annotations.Test;
 
 public class AppiumTest 
 {
@@ -13,9 +13,6 @@ public class AppiumTest
 		System.out.println("Windows");
 		System.out.println("Nokia OS");
 		System.out.println("Symbian OS");
-		System.out.println("Magic OS");
-		System.out.println("color OS");
- 
 	}
 	@Test
 	public void IOSapp()
